@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center"> Astute learner.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/Zqst3kV9Pte5krew9yAE6omKeDkj9sK9Vq65OhQQukw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/cVBoSzY4RUhoNGtB/QUFBai9wb2ludGlu/Zy10by1lYWNoLW90/aGVyLXNwaWRlci1t/YW4uZ2lm.gif"
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrishabk&label=Profile%20views&color=0e75b6&style=flat" alt="rrishabk" /> </p>
